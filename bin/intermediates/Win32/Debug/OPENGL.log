@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(131,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(132,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(136,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(137,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(139,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Computer Graphic\OPENGL\OPENGL\main.cpp(140,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4217: 符号“___glewActiveTexture”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"public: void __thiscall Mesh::Draw(class Shader *)" (?Draw@Mesh@@QAEXPAVShader@@@Z)”中)导入
+LINK : warning LNK4217: 符号“___glewBindBuffer”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewBufferData”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewGenBuffers”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewEnableVertexAttribArray”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewVertexAttribPointer”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewBindVertexArray”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"public: void __thiscall Mesh::Draw(class Shader *)" (?Draw@Mesh@@QAEXPAVShader@@@Z)”中)导入
+LINK : warning LNK4217: 符号“___glewGenVertexArrays”(在“ glew32s.lib(glew.obj)”中定义)已由“Mesh.obj”(函数“"private: void __thiscall Mesh::setupMesh(void)" (?setupMesh@Mesh@@AAEXXZ)”中)导入
+LINK : warning LNK4217: 符号“___glewGenerateMipmap”(在“ glew32s.lib(glew.obj)”中定义)已由“Model.obj”(函数“"private: unsigned int __thiscall Model::GenerateTex(unsigned char *,int,int,int,bool)" (?GenerateTex@Model@@AAEIPAEHHH_N@Z)”中)导入
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“D:\Computer Graphic\OPENGL\bin\Win32\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  OPENGL.vcxproj -> D:\Computer Graphic\OPENGL\bin\Win32\Debug\OPENGL.exe

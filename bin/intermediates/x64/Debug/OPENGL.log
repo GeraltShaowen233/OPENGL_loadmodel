@@ -1,0 +1,54 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 glewInit，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwInit，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetInputMode，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetCursorPosCallback，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetTime，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 __glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 __glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 __glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 __glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __glewGetUniformLocation
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 __glewUniform1f
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewUniform1f
+main.obj : error LNK2001: 无法解析的外部符号 __glewUniform3f
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewUniform3f
+main.obj : error LNK2001: 无法解析的外部符号 __glewUniformMatrix4fv
+main.obj : error LNK2001: 无法解析的外部符号 __glewVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 __glewBindVertexArray
+main.obj : error LNK2001: 无法解析的外部符号 __glewGenVertexArrays
+main.obj : error LNK2001: 无法解析的外部符号 glewExperimental
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewActiveTexture，函数 "public: void __cdecl Mesh::Draw(class Shader *)" (?Draw@Mesh@@QEAAXPEAVShader@@@Z) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindBuffer，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewBufferData，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewGenBuffers，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewEnableVertexAttribArray，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewVertexAttribPointer，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewBindVertexArray，函数 "public: void __cdecl Mesh::Draw(class Shader *)" (?Draw@Mesh@@QEAAXPEAVShader@@@Z) 中引用了该符号
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___glewGenVertexArrays，函数 "private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ) 中引用了该符号
+Model.obj : error LNK2019: 无法解析的外部符号 __imp___glewGenerateMipmap，函数 "private: unsigned int __cdecl Model::GenerateTex(unsigned char *,int,int,int,bool)" (?GenerateTex@Model@@AEAAIPEAEHHH_N@Z) 中引用了该符号
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewAttachShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewCompileShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewCreateProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewCreateShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewDeleteShader
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramInfoLog
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramiv
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderInfoLog
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderiv
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewLinkProgram
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewShaderSource
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewUniform1i
+Shader.obj : error LNK2001: 无法解析的外部符号 __glewUseProgram
+D:\Computer Graphic\OPENGL\Linking\lib\glfw_lib-vc2019\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Computer Graphic\OPENGL\Linking\lib\glew_Win32\glew32s.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Computer Graphic\OPENGL\bin\x64\Debug\OPENGL.exe : fatal error LNK1120: 48 个无法解析的外部命令
