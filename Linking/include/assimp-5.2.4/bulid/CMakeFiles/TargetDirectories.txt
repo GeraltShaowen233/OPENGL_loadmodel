@@ -1,0 +1,15 @@
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/CMakeFiles/uninstall.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/CMakeFiles/INSTALL.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/CMakeFiles/ALL_BUILD.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/CMakeFiles/ZERO_CHECK.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/code/CMakeFiles/assimp.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/code/CMakeFiles/INSTALL.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/tools/assimp_cmd/CMakeFiles/INSTALL.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/test/CMakeFiles/unit.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/test/CMakeFiles/INSTALL.dir
+C:/Users/sgsdi/Desktop/TOOL/opengl/assimp-5.2.4/bulid/test/headercheck/CMakeFiles/INSTALL.dir
